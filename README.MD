@@ -107,7 +107,7 @@ flowchart LR
 * Préparation des données pour les mesures DAX
 * Structuration des données pour faciliter l’analyse commerciale
 
-Exemple de code Power Query utilisé pour générer une table avec les totaux par catégorie :
+Exemple de code M de Power Query utilisé pour générer une table avec les totaux par catégorie :
 
 ```m
 let
