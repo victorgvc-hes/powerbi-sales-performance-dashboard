@@ -296,7 +296,6 @@ git clone https://github.com/victorgvc-hes/powerbi-sales-performance-dashboard.g
 *Professionnel des achats et des opérations | 20+ ans en chaîne d'approvisionnement*
 *Spécialisation : analytique avancée • Power BI • transformation numérique • amélioration opérationnelle*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-victor--vergara075-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/victor-vergara075/)
 [![GitHub](https://img.shields.io/badge/GitHub-Portfolio%20complet-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/victorgvc-hes?tab=repositories)
 [![Email](https://img.shields.io/badge/Email-victorgvc%40gmail.com-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:victorgvc@gmail.com)
 
