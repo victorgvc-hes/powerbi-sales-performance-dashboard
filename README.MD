@@ -277,7 +277,7 @@ Cette vue illustre l’organisation globale du projet, structurée autour du fic
 git clone https://github.com/victorgvc-hes/powerbi-sales-performance-dashboard.git
 
 # 2. Ouvrir le fichier dans Power BI Desktop
-#    File > Open > Analyse_Performance_Ventes_Entreprise_PowerBI.pbix
+#    File > Open > Analyse_Performance_Ventes.pbix
 
 # 3. Si nécessaire, actualiser la source de données
 #    Home > Transform Data > Data Source Settings
