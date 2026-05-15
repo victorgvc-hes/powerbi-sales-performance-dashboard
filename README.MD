@@ -61,7 +61,7 @@ Les équipes commerciales doivent souvent suivre plusieurs dimensions de perform
 
 ![Performance des représentants – Analyse commerciale](images/performance-representants.png)
 
-**Insights clés révélés :**
+**Lecture en 10 secondes :**
 
 - Les ventes sont comparées par représentant à l’aide de visuels dédiés
 - La répartition par zone commerciale met en évidence la contribution de l’Europe et de l’Amérique du Nord
